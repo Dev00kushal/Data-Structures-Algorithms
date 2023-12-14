@@ -103,6 +103,14 @@ console.log(mixedArrayInstance.byteSize); // Total byte size based on the elemen
 ```
 
 ## Memory Structure
+
+| Element | Type    | Byte Size |
+|---------|---------|-----------|
+| 1       | number  | 8 bytes   |
+| hello   | string  | 10 bytes  |
+| 3.14    | number  | 8 bytes   |
+| true    | boolean | 4 bytes   |
+
 JavaScript arrays are essentially objects with numerical keys (indices). Memory allocation involves creating an object in memory with key-value pairs, where the keys are the indices and the values are the elements.
 
  ```js
