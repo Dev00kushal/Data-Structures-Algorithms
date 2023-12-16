@@ -6,7 +6,7 @@
 
 int main() {
     // C-style array
-    int fixedArray[5] = {1, 2, 3, 4, 5};
+    int fixedArray[5] = {1, 999, 3, 4, 5};
 
     // std::array
     std::array<int, 5> stdArray = {1, 2, 3, 4, 5};
