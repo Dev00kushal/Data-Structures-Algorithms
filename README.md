@@ -8,7 +8,3 @@ Welcome to my repository for learning Data Structures and Algorithms (DSA). This
 
 - Understand fundamental data structures and algorithms.
 - Collaborate and learn from the programming community.
-
-## Getting Started
-   ```bash
-   git clone https://github.com/your-username/dsa-learning.git
